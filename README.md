@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api?username=yixiu1043&theme=jolly&show_icons=true" /> 
 </div>
  
-<table align="left">
+<table align="center">
     <tr>
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
