@@ -54,7 +54,9 @@ Here are some ideas to get you started:
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 </div> 
 
-<h3 align="left">Soical</h3>
+<div>
+  <h3 align="left">Soical</h3>
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/yixiu1043)
+  [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/yixiu1043)
+</div> 
 
