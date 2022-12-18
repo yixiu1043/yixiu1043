@@ -16,18 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm yixiu.</h1>
 
 <div style="text-align: center;">
-<!--  <div><b><em><spam>Statistics</spam></em></b></div> -->
- <h3 align="center">Statistics</h3>
+ <h3>Statistics</h3>
  
  <img src="https://github-readme-stats.vercel.app/api?username=yixiu1043&theme=jolly&show_icons=true" /> 
-</center>
+</div>
  
 <table align="center">
     <tr>
-<!--         <td align="center">
-          <div><b><em><spam>Statistics</spam></em></b></div>
-          <img src="https://github-readme-stats.vercel.app/api?username=yixiu1043&theme=jolly&show_icons=true" /> 
-        </td> -->
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
@@ -57,7 +52,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 
-<h3 align="left">Soical</h3>
+<h3 align="center">Soical</h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/yixiu1043)
 
