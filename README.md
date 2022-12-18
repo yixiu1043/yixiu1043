@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm yixiu.</h1>
 
+ <div><b><em><spam>Statistics</spam></em></b></div>
+ <img src="https://github-readme-stats.vercel.app/api?username=yixiu1043&theme=jolly&show_icons=true" /> 
+ 
 <table align="center">
     <tr>
-        <td align="center">
+<!--         <td align="center">
           <div><b><em><spam>Statistics</spam></em></b></div>
           <img src="https://github-readme-stats.vercel.app/api?username=yixiu1043&theme=jolly&show_icons=true" /> 
-        </td>
+        </td> -->
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
