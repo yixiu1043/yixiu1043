@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi there 👋, I'm yixiu.</h1>
 
-<table >
+<h3 align="left">Recent</h3>
+<table>
     <tr>
-        <td align="left">
-            <div align="center"><b><em><spam>Recent</spam></em></b></div>
+        <td>
             <ul>
                 <li>👻 Hi, I’m yixiu. Welcome to reach me!</li>
                 <li>📫 I’m interested in coding and exploring new technologies.</li>
