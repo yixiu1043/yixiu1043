@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm yixiu.</h1>
-<center>
- <div><b><em><spam>Statistics</spam></em></b></div>
+
+<div style="text-align: center;">
+<!--  <div><b><em><spam>Statistics</spam></em></b></div> -->
+ <h3 align="center">Statistics</h3>
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=yixiu1043&theme=jolly&show_icons=true" /> 
 </center>
  
@@ -39,7 +42,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="center">Languages & Tools</h3>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
